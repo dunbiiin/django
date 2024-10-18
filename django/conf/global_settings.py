@@ -3,7 +3,7 @@ Default Django settings. Override these with settings in the module pointed to
 by the DJANGO_SETTINGS_MODULE environment variable.
 """
 
-
+# 내가 만듦
 # This is defined here as a do-nothing function because we can't import
 # django.utils.translation -- that module depends on the settings.
 def gettext_noop(s):
